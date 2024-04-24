@@ -1,2 +1,2 @@
-# Python01
-Primeira aula de phython
+# Python
+Aulas de Python na UNINTER
